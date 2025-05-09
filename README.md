@@ -221,7 +221,7 @@ void assert_failed(uint8_t *file, uint32_t line)
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE):
 
-
+![image](https://github.com/user-attachments/assets/0a85f0ee-6053-4ee2-9242-2cdf13e6ec6d)
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 FOR PULSE AT 500
